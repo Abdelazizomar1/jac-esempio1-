@@ -1,0 +1,13 @@
+#containerOrder {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.mainOrder {
+  width: 300px;
+  padding: 10px;
+  margin: 20px;
+
+  border: 1px solid black;
+  border-radius: 10px;
+}
